@@ -63,6 +63,21 @@
 ## 4. Verification
 *Describe how each requirement in Section 3 will be verified (testing, demo, review, etc.). Match section numbers.*
 
+### 4.1 Functional Requirements
+*Detail all functional requirements of the system.*
+
+### 4.2 Performance Requirements
+*Outline expected performance criteria: speed, capacity, etc.*
+
+### 4.3 Usability Requirements
+*Specify requirements for ease of use, accessibility, or user training.*
+
+### 4.4 Interface Requirements
+*Describe user interfaces, APIs, hardware interfaces, etc.*
+
+### 4.5 Logical Database Requirements
+*Detail any data storage needs, database schema, and relationships.*
+
 ---
 
 ## 5. Appendices
