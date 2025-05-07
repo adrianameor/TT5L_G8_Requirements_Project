@@ -28,19 +28,20 @@ The primary users of the Student Club Management System with Budget and Venue In
 ---
 
 ## 2. References - everyone
-CampusGroups. (2024). CampusGroups – Student engagement and event management platform. https://www.campusgroups.com
 
-ClubExpress. (2024). ClubExpress – Club and association management. https://www.clubexpress.com
+CampusGroups. (2024). *CampusGroups – Student engagement and event management platform*. https://www.campusgroups.com
 
-Hello Club. (2024). Hello Club – Membership management software. https://www.helloclub.com
+ClubExpress. (2024). *ClubExpress – Club and association management*. https://www.clubexpress.com
 
-IEEE. (2018). ISO/IEC/IEEE 29148:2018 Systems and software engineering—Life cycle processes—Requirements engineering. International Organization for Standardization. https://www.iso.org/standard/72089.html
+Hello Club. (2024). *Hello Club – Membership management software*. https://www.helloclub.com
 
-Pohl, K. (2010). Requirements engineering: Fundamentals, principles, and techniques. Springer.
+IEEE. (2018). *ISO/IEC/IEEE 29148:2018 Systems and software engineering—Life cycle processes—Requirements engineering*. International Organization for Standardization. https://www.iso.org/standard/72089.html
 
-Pressman, R. S., & Maxim, B. R. (2015). Software engineering: A practitioner’s approach (8th ed.). McGraw-Hill Education.
+Pohl, K. (2010). *Requirements engineering: Fundamentals, principles, and techniques*. Springer.
 
-Sommerville, I. (2016). Software engineering (10th ed.). Pearson Education.
+Pressman, R. S., & Maxim, B. R. (2015). *Software engineering: A practitioner’s approach* (8th ed.). McGraw-Hill Education.
+
+Sommerville, I. (2016). *Software engineering* (10th ed.). Pearson Education.
 
 ---
 
