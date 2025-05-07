@@ -3,7 +3,7 @@
 ## 1. Introduction
 
 ### 1.1 Purpose - adriana
-*Describe the purpose of this system and its intended users.*
+The purpose of the Student Club Management System with Budget and Venue Integration is to provide a unified digital platform that streamlines the administrative and operational tasks of student clubs and organizations within the university. The system is designed to solve inefficiencies in how clubs currently manage their memberships, plan events, request budgets, and book venues, most of which are done manually or through disconnected systems. By integrating with the university's financial management system and campus venue reservation database, the platform will automate the approval workflow, reduce redundant communication, and provide transparency in financial and spatial resource allocation. The system targets student club leaders, members, event coordinators, financial officers, and university administrators, aiming to improve collaboration, reduce paperwork, and ensure compliance with university policies. This platform will ultimately enhance the student co-curricular experience by making club operations more accessible, efficient, and accountable.
 
 ### 1.2 Scope - rafida
 *Define the scope of the system, what it will and will not do.*
