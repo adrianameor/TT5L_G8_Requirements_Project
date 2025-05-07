@@ -80,11 +80,11 @@ The Student Club Management System must be developed as a web-based application 
 *Detail all functional requirements of the system.*
 
 ### 4.2 Performance Requirements - adriana
-How: Performance verification will be conducted using automated performance testing tools such as JMeter and LoadRunner to stimulate high user concurrency, data loads, and transaction volumes.
-Who: The testing team in collaboration with university IT support staff will carry out the verification.
-When: Testing will be executed after system integration is complete and before full deployment, specifically during the UAT (User Acceptance Testing) phase.
-Where: Performance tests will be run in a staging environment that mirrors the production setup.
-Criteria: The system must pass the defined benchmarks including: (1) page load time not exceeding 2 seconds, (2) 500 concurrent users without performance drop, (3) venue query response time within 1 second, and (4) daily backup operation successfully completed in under 15 minutes. Any failure to meet these benchmarks will require refactoring and retesting.
+How: Performance verification will be conducted using automated performance testing tools such as JMeter and LoadRunner to stimulate high user concurrency, data loads, and transaction volumes.  
+Who: The testing team in collaboration with university IT support staff will carry out the verification.  
+When: Testing will be executed after system integration is complete and before full deployment, specifically during the UAT (User Acceptance Testing) phase.  
+Where: Performance tests will be run in a staging environment that mirrors the production setup.  
+Criteria: The system must pass the defined benchmarks including: (1) page load time not exceeding 2 seconds, (2) 500 concurrent users without performance drop, (3) venue query response time within 1 second, and (4) daily backup operation successfully completed in under 15 minutes. Any failure to meet these benchmarks will require refactoring and retesting.  
 
 ### 4.3 Usability Requirements - rafida
 *Specify requirements for ease of use, accessibility, or user training.*
@@ -103,15 +103,15 @@ Criteria: The system must pass the defined benchmarks including: (1) page load t
 This system assumes that student clubs are registered through a centralized university database and that each club has designated officers with authority to request budgets and book venues. It depends on stable integration with the university's financial management system, such as for fund tracking and approvals, and the venue booking database, such as for real-time availability and scheduling. It also assumes continuous availability of authentication services provided by the university's Single Sign-On (SSO) system. Internet access is assumed for both students and staff. Additionally, administrative users are expected to respond to requests within designated processing time frames. The system also assumes that all policy changes, such as new budget rules or booking protocols, will be updated in the admin panel by authorized university staff. Lastly, the development team depends on timely access to relevant documentation, data, and technical support from the university's IT department during both development and maintenance phases.
 
 ### 5.2 Acronyms and Abbreviations - everyone
-API - Application Programming Interface
-DBMS - Database Management System
-GUI - Graphical User Interface
-HTTP - HyperText Transfer Protocol
-PDPA - Personal Data Protection Act
-RBAC - Role-Based Access Control
-SRS - Software Requirement Specification
-SSL - Secure Sockets Layer
-SSO - Single Sign-On
-UAT - User Acceptance Testing
+API - Application Programming Interface  
+DBMS - Database Management System  
+GUI - Graphical User Interface  
+HTTP - HyperText Transfer Protocol  
+PDPA - Personal Data Protection Act  
+RBAC - Role-Based Access Control  
+SRS - Software Requirement Specification  
+SSL - Secure Sockets Layer  
+SSO - Single Sign-On  
+UAT - User Acceptance Testing  
 WCAG - Web Content Accessibility Guidelines
 
